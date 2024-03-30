@@ -1,6 +1,6 @@
 # seed-calc
 Is simple WordPress plugin for calculate seed for sowing.
-developed by William Wright under contract from Balmasch Company
+developed by Alberto Casco under contract from Balmasch Company
 
 ## simple login of the plugin is:
 Datos:

@@ -1,8 +1,8 @@
-# seed-calc
+# calc-semillas
 Is simple WordPress plugin for calculate seed for sowing.
 developed by Alberto Casco under contract from Balmasch Company
 
-## simple login of the plugin is:
+## descripcion de datos y parametros para calculo:
 Datos:
 - Cantidad de hectáreas: 150
 - Peso de 1000 semillas: 150 gramos
